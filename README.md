@@ -1,4 +1,4 @@
-# OIIP — Evaluación Volumétrica Probabilística (Monte Carlo)
+# OOIP — Evaluación Volumétrica Probabilística (Monte Carlo)
 
 Aplicación interactiva construida con **Streamlit** para estimar el aceite original en sitio (OOIP) mediante simulación Monte Carlo.
 
