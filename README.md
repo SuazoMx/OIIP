@@ -26,7 +26,7 @@ OOIP = 7758 · A · h · φ · (1 − Sw) / Bo
 
 ## Instalación
 
-`ash
+`Bash
 pip install -r requirements.txt
 `
 
