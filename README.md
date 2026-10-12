@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Uso
 
-`ash
+`Bash
 streamlit run app.py
 `
 
