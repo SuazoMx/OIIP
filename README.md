@@ -41,3 +41,5 @@ streamlit run app.py
 - **P90** = valor excedido con 90 % de probabilidad (caso bajo / conservador)
 - **P50** = caso base
 - **P10** = valor excedido con 10 % de probabilidad (caso alto / optimista)
+## Demo
+- **OIIP** https://ooipestocastico.streamlit.app/
